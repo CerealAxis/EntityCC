@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/EntityCC.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EntityCC.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/link.sakacloud.EntityCC.main.iml" filepath="$PROJECT_DIR$/.idea/modules/link.sakacloud.EntityCC.main.iml" />
     </modules>
   </component>
 </project>
