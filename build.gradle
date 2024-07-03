@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'link.sakacloud'
-version = '1.1-Beta'
+version = '1.0.0-Beta'
 
 repositories {
     mavenCentral()
