@@ -66,7 +66,7 @@ public class EntityCC extends JavaPlugin {
             }
         }
 
-        silverfishList.sort((e1, e2) -> Integer.compare(e2.getTicksLived(), e1.getTicksLived())); // Sort by age descending
+        silverfishList.sort((e1, e2) -> Integer.compare(e2.getTicksLived(), e1.getTicksLived()));
 
         for (int i = 0; i < excessSilverfish && i < silverfishList.size(); i++) {
             silverfishList.get(i).remove();
